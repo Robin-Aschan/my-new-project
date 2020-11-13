@@ -1,11 +1,15 @@
 
 # Project Title - Not decided yet
 
+Building AI course project
+
 Final project for the Building AI course
 
 ## Summary
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+
+
 
 
 ## Background
@@ -16,6 +20,10 @@ This is how you make a list, if you need one:
 * problem 1
 * problem 2
 * etc.
+
+I am a doctoral student working in the field of optical metrology (i.e. measurement science of optical phenomena). Specifically, I measusure scattered light of differenct material. Currently, I have been working on measuring the diffuse reflected light from white standard samples. I usually measure the sample in the wavelength region of 830-360 nm.
+
+I could create an "AI" which uses traning data in the whole wavelength range, but train data that only uses a few points. By linear regression it could predict the missing points, thus saving time. 
 
 
 ## How is it used?
